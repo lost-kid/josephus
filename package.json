@@ -1,0 +1,12 @@
+{
+  "name": "josephus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lost-kid/josephus.git",
+  "author": "lost-kid <mg401880@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/node": "^5.12.3",
+    "discord.js": "^11.5.1"
+  }
+}
